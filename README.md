@@ -28,9 +28,7 @@
 <br />
 
 
-## Open Source Contributions:
 
-- In progress.
 
 [twitter]: https://twitter.com/kritikasri27
 [linkedin]: https://www.linkedin.com/in/kritika-srivastava
