@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  
-<a href="https://www.linkedin.com/in/anandagharami//" target="blank"><img align="center" src="[https://github.com/gharamiananda/](https://media.licdn.com/dms/image/C5603AQGJpZYzJWmYiw/profile-displayphoto-shrink_200_200/0/1608528620986?e=1709769600&v=beta&t=sNzi5UoHNJNZXbFBAepO1yrp-5xeUoSRjIJVXWZskgg)" alt="Ananda's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anandagharami" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQFtclBa-kUjjg/profile-displayphoto-shrink_100_100/0/1715199177371?e=1725494400&v=beta&t=oRGTuz6XEd4cSN0Itb13StD0Z6juuXC2NLUYiWZoU3w" alt="Ananda's Linkedin profile" height="30" width="40" /></a>
 </p>
 <br/>
 
