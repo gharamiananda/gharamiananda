@@ -4,18 +4,13 @@
 
 🔭 Highlights: Currently I am working as a full-time <strong>MERN Developer</strong>. I am using React/Redux, TypeScript, CSS, Material UI5, Git, Gitlab, Figma .Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/anandagharami" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQFtclBa-kUjjg/profile-displayphoto-shrink_100_100/0/1715199177371?e=1725494400&v=beta&t=oRGTuz6XEd4cSN0Itb13StD0Z6juuXC2NLUYiWZoU3w" alt="Ananda's Linkedin profile" height="30" width="40" /></a>
-</p>
-<br/>
+
 
 ## :mailbox: Reach me out
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/anandagharami/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ananda.gharami.75)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://www.facebook.com/ananda.gharami.75)
 
 <br />
 
