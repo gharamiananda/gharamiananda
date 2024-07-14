@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/anandagharami/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ananda.gharami.75)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://www.facebook.com/ananda.gharami.75)
+[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/anandagharami/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ananda.gharami.75)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://www.facebook.com/ananda.gharami.75)]
 
 <br />
 
