@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/D5616AQE-W7jCTV27sw/profile-displaybackgroundimage-shrink_350_1400/0/1720965634364?e=1726704000&v=beta&t=Ta1UqkrTMVmDagZ1qXuunwmohSj-e8wVw1UmtJgQPUU" alt="Mokkapps GitHub README header image">
+
+
 # <strong>Ananda Gharami</strong>
 
 ##  Hi, I am a FullStack (MERN) Developer 👩‍💻
