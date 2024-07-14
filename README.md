@@ -5,7 +5,7 @@
 
 ##  Hi, I am a FullStack (MERN) Developer 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>MERN Developer</strong>. I am using React/Redux, TypeScript, CSS, Material UI5, Git, Gitlab, Figma .Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.
+🔭 Highlights: Currently I am working as a full-time <strong>MERN Developer</strong>. I am using React/Redux, TypeScript, CSS, Material UI5, Git, Gitlab, Figma .Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.As a full-stack developer with over 3 years of experience, my vision is to leverage my skills and creativity to craft innovative solutions that drive technological advancement and empower businesses to thrive in the digital age. I aspire to continuously learn and adapt to emerging technologies, contributing to cutting-edge projects that make a meaningful impact globally. With a commitment to excellence and collaboration, I aim to be recognized for my dedication to quality craftsmanship and my ability to deliver robust, scalable solutions that exceed client expectations. Together with my team at TechWens Pvt Ltd, I envision creating a future where technology enhances efficiency, connectivity, and the overall human experience.
 
 
 
